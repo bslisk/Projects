@@ -1,0 +1,59 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#home-card {
+    margin: 0 auto;
+    width: 600px;
+    height: 400px;
+    padding: 10px;
+    border-bottom: 2px solid darkgray;
+}
+
+#home-card ul {
+    margin-left: -22px;
+    font-size: 25px;
+}
+
+#home-card li {
+    padding: 10px;
+}
+
+.title {
+    font-size: 70px;
+    text-align: center;
+    border-bottom: 2px solid darkgray;
+    padding-bottom: 22px;
+}
+
+#recipe-container {
+    margin: 0 auto;
+    width: 600px;
+    padding-bottom: 36px;
+    border-bottom: 2px solid darkgray;
+    margin-bottom: 80px;
+    overflow: hidden;
+}
+
+img {
+    height: 400px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 25px;
+}
+
+h2,
+h3 {
+    color:cadetblue;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+li {
+    padding: 4px;
+}
